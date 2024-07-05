@@ -1,0 +1,11 @@
+1 Link Server : 
+  1.1 http://iptwgc01.iptw-portofolio.tech
+2 Expo Publish: 
+  2.1 android: exp://u.expo.dev/update/d0057f41-390f-4d55-a904-3bf1eced7ca9
+  2.2 ios: exp://u.expo.dev/update/cc47b109-1ec9-4183-95a4-ec736c5706e9
+3 Email/username & password user1: "joko@gmail.com" , "admin1234"
+6 Sertakan juga Key & Value ENV yang digunakan: 
+JWT_SECRET=secret
+MONGODB_SECRET=feUhqGQdUFnO52b7
+REDIS_SECRET=Vs214u88GBu7GarF8FXlqF2sCwUbBrD5
+7 Attachment QR Code:

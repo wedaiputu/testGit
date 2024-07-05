@@ -1,0 +1,15 @@
+commit :
+
+15.10:
+git commit -m"setup apollo server, chore localhosthost 3000"
+17.17 :
+git commit -m"chore: update app.js, add depedency mongoDb, feat: connection"
+17.58:
+git commit -m"chores: update userSchemas, userRegistration"
+21:51
+git commit -m"fix: renamed:schemas/ -> models/, feat: login endPoint"
+
+
+
+19.50
+git commit -m"chore: add/posts"
